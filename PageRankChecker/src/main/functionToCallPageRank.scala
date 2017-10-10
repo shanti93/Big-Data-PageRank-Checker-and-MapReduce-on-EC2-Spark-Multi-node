@@ -49,7 +49,7 @@ object functionToCallPageRank {
 
     while (t) {
       Thread.sleep(500)
-      println("===============================================================================")
+      println("----------------------------------------------------------------------------")
       println("Enter option to run: \n\t1 - Pagerank on GraphX(Default) \n\t2 - Pagerank on Spark \n\t3 - Top 100 List")
       println("Waiting..")
       var l = s.nextLine()
@@ -74,7 +74,7 @@ object functionToCallPageRank {
         }
         Files.deleteIfExists(Paths.get(top100universities))
 
-        write("\nUniversity List ==============================================================", top100universities)
+        write("\nUniversity List ------------------------------------------------------------ ", top100universities)
         val l = Source.fromURL(getClass.getResource("/University List.txt")).getLines().toList
 
         var p = List1.vertices.top(List1.triplets.count().toInt) {

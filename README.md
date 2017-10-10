@@ -17,4 +17,4 @@ Operations performed:
 3)	Spark implementation to find top hundred universities list.
 4)	On a given word set implemented Word Count
 5)	On a given dataset implemented double Word Count
-6)      Using distributed Cache, found the frequency of words that are in one list from another list.
+6)  Using distributed Cache, found the frequency of words that are in one list from another list.

@@ -33,7 +33,7 @@ object graphXpageRank {
 
     val pattern = "<target>.+?<\\/target>".r
 
-    val edges: RDD[Edge[Double]] = articles.flatMap { a =>
+    val edges: RDD[Edge[Double]] = wikiarticles.flatMap { a =>
       val srcId = pageHash(a.title)
       pattern.findAllIn(a.xml).map { link =>
         val dstId = pageHash(link.replace("<target>", "").replace("</target>", ""))
@@ -49,16 +49,16 @@ object graphXpageRank {
 
     Time = System.currentTimeMillis()
 
-    val prGraph: Graph[Double, Double] = graph.staticPageRank(iters).cache
+    val prGraph: Graph[Double, Double] = graph.staticPageRank(Iterations).cache
 
     val title2: Graph[(Double, String), Double] = graph.outerJoinVertices(prGraph.vertices) {
       (v, title, rank) => (rank.getOrElse(0.0), title)
     }
 
-    var page = title2.vertices.top(titleAndPrGraph.triplets.count().toInt) {
+    var page = title2.vertices.top(title2.triplets.count().toInt) {
       Ordering.by((entry: (VertexId, (Double, String))) => entry._2._1)
     }.take(topC).foreach(t => {
-      write(t._2._2 + " page has rank: " + t._2._1, path)
+      writetofile(t._2._2 + " page has rank: " + t._2._1, path)
     })
     writetofile("Total time taken =using graphX is " + (System.currentTimeMillis() - Time ), path)
     title2

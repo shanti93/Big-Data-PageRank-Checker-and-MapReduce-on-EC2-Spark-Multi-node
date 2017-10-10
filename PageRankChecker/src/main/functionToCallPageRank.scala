@@ -12,7 +12,7 @@ object functionToCallPageRank {
 
   val iters = 5
   val topCount = 100
-  var Datafile = "C:\\dataset\\freebase-wex-2009-01-12-articles.tsv"
+  var Datafile = "/Users/santhisushma/WEX/freebase-wex-2009-01-12-articles.tsv"
   var URL = "local"
   
   
@@ -60,7 +60,7 @@ object functionToCallPageRank {
       println("Read " + opt)
 
       if (opt == 1) {
-        List1 = PagerankGraphX.printTopPages(Datafile, URL, topCount, iters, graphxres, sc)
+        List1 = graphXpageRank.printTopArticles(Datafile, URL, topCount, iters, graphxres, sc)
       }
 
       if (opt == 2) {
@@ -70,18 +70,18 @@ object functionToCallPageRank {
       if (opt == 3) {
         if (List1 == null) {
           println("Starting evaluation of Pagerank using graphX")
-          List1 = graphXpageRank.printTopArticles(DataFile, URL, topCount, iters, graphxres, sc)
+          List1 = graphXpageRank.printTopArticles(Datafile, URL, topCount, iters, graphxres, sc)
         }
-        Files.deleteIfExists(Paths.get(top100result))
+        Files.deleteIfExists(Paths.get(top100universities))
 
-        write("\nUniversity List ==============================================================", top100result)
+        write("\nUniversity List ==============================================================", top100universities)
         val l = Source.fromURL(getClass.getResource("/University List.txt")).getLines().toList
 
-        var p = List1.vertices.top(List.triplets.count().toInt) {
+        var p = List1.vertices.top(List1.triplets.count().toInt) {
           Ordering.by((entry: (VertexId, (Double, String))) => entry._2._1)
         }.filter{ x => 
           l contains (x._2._2)
-        }.take(100).foreach(x => write("\n" + x._2._2 + " university has rank : " + x._2._1, top100result))
+        }.take(100).foreach(x => write("\n" + x._2._2 + " university has rank : " + x._2._1, top100universities))
       }
 
       if (opt == -1) {

@@ -1,5 +1,4 @@
-
-PageRank Checker and MapReduce using Spark and Hadoop on EC2
+PageRank Checker and MapReduce using Spark and Hadoop on EC2 - Scala Programming
 
 
 Implemented two major algorithms PageRank and MapReduce using RDD on Spark.

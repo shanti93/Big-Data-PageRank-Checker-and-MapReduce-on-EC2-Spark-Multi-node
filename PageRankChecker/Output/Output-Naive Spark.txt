@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c0;\csgray\c100000;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \CocoaLigature0 United States has rank - 177.44597228167083\
+United States Census Bureau has rank - 163.30332853811774\
+population density has rank - 161.02278052600602\
+Marriage has rank - 160.82201262245906\
+census has rank - 159.7252188998157\
+per capita income has rank - 158.55646913979\
+poverty line has rank - 157.47318745817591\
+square mile has rank - 149.63779280245794\
+km\'b2 has rank - 147.46163423786214\
+White (U.S. Census) has rank - 133.4344402826159\
+Federal Information Processing Standard has rank - 128.07851253650608\
+Political divisions of the United States has rank - 120.03588140913276\
+List of countries has rank - 119.20978127171392\
+Latino (U.S. Census) has rank - 112.34803779104631\
+Hispanic (U.S. Census) has rank - 112.2258274605893\
+Race (United States Census) has rank - 111.73381858431301\
+Geographic Names Information System has rank - 109.20456816484811\
+United States Census, 2000 has rank - 101.05358201842643\
+Native American (U.S. Census) has rank - 96.10357576143879\
+African American (U.S. Census) has rank - 88.51865880910522\
+Asian (U.S. Census) has rank - 86.24988886500206\
+ZIP code has rank - 73.24086728039742\
+North American Central Time Zone has rank - 62.70610493628994\
+North American Eastern Time Zone has rank - 50.39921217123705\
+U.S. state has rank - 44.05191575277882\
+City has rank - 34.302805101580354\
+Pacific Islander (U.S. Census) has rank - 34.18711956919647\
+Town has rank - 27.25777562934678\
+county seat has rank - 25.167073191049063\
+census-designated place has rank - 24.46842091527471\
+Pennsylvania has rank - 23.82294274159523\
+2000 United States Census has rank - 23.318814022194797\
+Census-designated place has rank - 19.865474159197085\
+county has rank - 19.572515699579167\
+Township (United States) has rank - 19.130177050923344\
+Minnesota has rank - 18.253284061378206\
+New York City has rank - 16.988730077576964\
+Australia has rank - 16.972953918314786\
+European Union has rank - 15.531342832389257\
+American National Standards Institute has rank - 15.119646547390813\
+United Kingdom has rank - 15.11053853571011\
+List of counties in Minnesota has rank - 14.956318504256396\
+England has rank - 14.463890891178146\
+Chicago has rank - 14.025144967254022\
+France has rank - 13.747950294211392\
+Michigan has rank - 13.669268247074747\
+Washington, D.C. has rank - 13.527175654646317\
+International Organization for Standardization has rank - 13.468844175138045\
+English language has rank - 13.263353393853698\
+United States Geological Survey has rank - 13.190962409358216\
+Wisconsin has rank - 13.050091009143689\
+Germany has rank - 12.860813682593118\
+FIPS county code has rank - 12.774543105476097\
+NIST has rank - 12.76549389206696\
+Institute of Electrical and Electronics Engineers has rank - 12.72697880117998\
+Nomenclature of Territorial Units for Statistics has rank - 12.698414103660514\
+Standardization has rank - 12.695569667238807\
+FIPS state code has rank - 12.68235561070886\
+Advanced Encryption Standard has rank - 12.682273480146893\
+Indiana has rank - 12.675342672583366\
+Data Encryption Standard has rank - 12.672554636212668\
+Category:Standards has rank - 12.668619653531326\
+ISO 3166 has rank - 12.634598057881876\
+List of FIPS region codes has rank - 12.633446360679654\
+cryptographic has rank - 12.622759114641811\
+country codes has rank - 12.609867436910479\
+Category:National Institute of Standards and Technology has rank - 12.609811819876132\
+List of FIPS country codes has rank - 12.605354270941644\
+FIPS 140 has rank - 12.604852633040684\
+FIPS 201 has rank - 12.603844863300703\
+United States Federal government has rank - 12.599269490291114\
+es:Federal Information Processing Standard has rank - 12.599269490291114\
+http://geonames.usgs.gov/docs/fips55_change.pdf FIPS 55 Change Notice has rank - 12.599269490291114\
+simple:Federal Information Processing Standard has rank - 12.599269490291114\
+ja:Federal Information Processing Standards has rank - 12.599269490291114\
+it:Federal Information Processing Standard has rank - 12.599269490291114\
+pl:Federal Information Processing Standard has rank - 12.599269490291114\
+fr:Federal Information Processing Standard has rank - 12.599269490291114\
+Federal Information Security Management Act of 2002 has rank - 12.599269490291114\
+de:Federal Information Processing Standard has rank - 12.599269490291114\
+pt:Federal Information Processing Standard has rank - 12.599269490291114\
+Category:Statistical data coding has rank - 12.599269490291114\
+eo:FIPS (Usona) has rank - 12.599269490291114\
+zh:
+\f1 \'c2\'93\'b0\'ee\'d9\'59\'c1\'cf\'cc\'8e\'c0\'ed\'98\'cb\'9c\'ca
+\f0  has rank - 12.599269490291114\
+ru:\uc0\u1060 \u1077 \u1076 \u1077 \u1088 \u1072 \u1083 \u1100 \u1085 \u1099 \u1077  \u1089 \u1090 \u1072 \u1085 \u1076 \u1072 \u1088 \u1090 \u1099  \u1086 \u1073 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1080 \u1085 \u1092 \u1086 \u1088 \u1084 \u1072 \u1094 \u1080 \u1080  has rank - 12.599269490291114\
+nl:Federal Information Processing Standard has rank - 12.599269490291114\
+Philadelphia has rank - 12.30714566645048\
+New England has rank - 12.271005389297997\
+Category:Townships in Pennsylvania has rank - 12.195216235571786\
+Category:Pennsylvania township disambiguation pages has rank - 12.048425770344098\
+New York has rank - 11.889053195366202\
+United States House of Representatives has rank - 11.75827415888533\
+World War II has rank - 11.74221165876931\
+Maryland has rank - 11.719803110183886\
+Category:Townships in Minnesota has rank - 11.653148334441733\
+July 1 has rank - 11.329378759383006\
+population has rank - 11.200296265291296\
+U.S. Census Bureau has rank - 10.891969952765274\
+Los Angeles has rank - 10.733762912378332\
+Atlanta has rank - 10.660963899269502\
+Total time taken to compute using naive Spark implementation 206797}

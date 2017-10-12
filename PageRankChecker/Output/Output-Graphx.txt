@@ -1,0 +1,108 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c0;\csgray\c100000;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \CocoaLigature0 United States Census Bureau page has rank: 1196.4828648310997\
+Per capita income page has rank: 1193.8686879543052\
+Population density page has rank: 690.6284120643894\
+Census page has rank: 688.5469132507749\
+Marriage page has rank: 669.1521028661199\
+Purchasing power parity page has rank: 637.4015420300603\
+ZIP code page has rank: 564.2425634591723\
+Square mile page has rank: 533.954081554304\
+Federal Information Processing Standard page has rank: 478.6222531254009\
+FIPS county code page has rank: 467.44253067813156\
+City page has rank: 451.5090949090865\
+Area page has rank: 306.4162927626332\
+Mile page has rank: 305.59021864399335\
+Acre page has rank: 304.88697681683277\
+Hectare page has rank: 303.3322281059\
+Earth page has rank: 237.01911418736006\
+County page has rank: 216.6679563435752\
+England page has rank: 199.96972485070916\
+Germany page has rank: 196.6487031291624\
+United Kingdom page has rank: 183.3161261472768\
+Pennsylvania page has rank: 180.43108318587917\
+Minnesota page has rank: 163.81622114532013\
+County seat page has rank: 147.10714362330137\
+American Civil War page has rank: 146.69422948018735\
+India page has rank: 143.1795657935191\
+Soviet Union page has rank: 141.69197173537214\
+Population page has rank: 137.00008171705034\
+Michigan page has rank: 134.30180319736633\
+California page has rank: 133.46299746337124\
+Europe page has rank: 132.74539856707833\
+Town page has rank: 130.91341665034594\
+Texas page has rank: 126.77479839777926\
+Spain page has rank: 125.93014547604278\
+Wisconsin page has rank: 123.33714932784628\
+World War II page has rank: 121.48203382719888\
+Native Americans in the United States page has rank: 119.56199558895968\
+Japan page has rank: 119.29381523334197\
+Italy page has rank: 118.11936610456827\
+European Union page has rank: 112.51869129298926\
+London page has rank: 107.50079609947953\
+French language page has rank: 105.08908765178153\
+Maryland page has rank: 104.61212102391552\
+Netherlands page has rank: 103.65201723325266\
+Latin page has rank: 98.28737113546265\
+American Revolutionary War page has rank: 98.13851306802356\
+Republican Party (United States) page has rank: 97.20193761566411\
+Rome page has rank: 95.36289016561679\
+Greek language page has rank: 90.00486000803242\
+Indiana page has rank: 89.00200597714709\
+Chicago page has rank: 87.7420027709538\
+Scotland page has rank: 86.69941063402548\
+Illinois page has rank: 86.68200565836817\
+Spanish language page has rank: 84.2526850583621\
+Republic of Ireland page has rank: 82.99838880845422\
+Asia page has rank: 80.54771019221859\
+Roman Empire page has rank: 78.71646258342659\
+Washington, D.C. page has rank: 78.072897885398\
+Russia page has rank: 77.42947984998891\
+Ohio page has rank: 74.98988297285793\
+Queensland page has rank: 74.89842828464982\
+Hong Kong page has rank: 74.87837430634008\
+2007 page has rank: 74.77602559215399\
+Missouri page has rank: 74.63385833841794\
+President of the United States page has rank: 73.62166492815787\
+Iowa page has rank: 73.60085761382325\
+Denmark page has rank: 73.20247224121766\
+Roman Republic page has rank: 72.58081679310345\
+German language page has rank: 72.2073432504093\
+Paris page has rank: 72.08625171917653\
+Norway page has rank: 71.16286575784544\
+Suitland-Silver Hill, Maryland page has rank: 67.58675063212118\
+Metropolitan area page has rank: 65.53742302813099\
+Philadelphia page has rank: 64.97595505877888\
+Greek mythology page has rank: 64.48410121362295\
+Cairo page has rank: 61.822712159463585\
+African American page has rank: 61.06076066223549\
+Mayor page has rank: 60.6414568381547\
+North Carolina page has rank: 59.99040301391488\
+Oklahoma page has rank: 59.63544693009259\
+Mongolia page has rank: 59.59582196127304\
+American National Standards Institute page has rank: 59.459279503699456\
+Country page has rank: 59.428964844280635\
+2006 page has rank: 59.37594908481141\
+Midwestern United States page has rank: 58.563614163594366\
+Poland page has rank: 58.55282420103692\
+Christianity page has rank: 57.99822903372299\
+North America page has rank: 56.97677007131565\
+Urbanization page has rank: 56.73148657588711\
+List of countries by population page has rank: 56.23405756894718\
+International Organization for Standardization page has rank: 55.467472307401096\
+Lagos page has rank: 55.277975597629414\
+Nebraska page has rank: 55.1254257997461\
+Brazil page has rank: 54.8600171337897\
+Inbreeding page has rank: 54.25718776657717\
+Ulan Bator page has rank: 54.2257555917617\
+Human geography page has rank: 54.109640553981734\
+Han Dynasty page has rank: 53.97419846907751\
+Virginia page has rank: 53.85026710054194\
+Small population size page has rank: 53.80764235194785\
+Internet page has rank: 53.002822145462495\
+Total time taken =using graphX is 14909}

@@ -1,3 +1,4 @@
 DataSet for Pagerank - Wikipedia articles - https://aws.amazon.com/datasets/wikipedia-extraction-wex/
-List of Universities - Link : http://www.4icu.org/
+List of Universities - Link : Wiki query from Wiki dataset.
+University list is scraped with item identifier
 
